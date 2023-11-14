@@ -8,7 +8,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github.com/jonathansartorib/Detona-Ralph-Game/blob/main/src/images/screenShot.png" width="500px" alt="JS Yu-Gi-Oh GAME">
+  <img src="https://github.com/jonathansartorib/Yu-Gi-Oh-Jokenpo-Edition-JS/blob/main/src/assets/icons/screenShot.png" width="500px" alt="JS Yu-Gi-Oh GAME">
 </p>
 
 Bem-vindo ao **Yu-Gi-Oh | Jokenpo Edition**! Neste repositório, você encontrará um jogo divertido baseado no anime YU-GI-OH. Este projeto não apenas oferece entretenimento, mas também demonstra várias técnicas avançadas de desenvolvimento de jogos em JavaScript.
